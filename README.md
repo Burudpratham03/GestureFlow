@@ -1,4 +1,4 @@
-# Kinetic Nebula Web
+# GestureFlow
 
 This project turns your hands into a live gesture controller with a transparent in-air visual effect over your camera.
 
