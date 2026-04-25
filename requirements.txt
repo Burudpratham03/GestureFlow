@@ -1,0 +1,6 @@
+numpy
+pygame
+opencv-python
+mediapipe
+sounddevice
+pyautogui
